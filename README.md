@@ -14,7 +14,7 @@ The engine achieves a new paradigm in retrieval performance through a synthesis 
 
 A complete technical overview, including benchmark results and the runnable proof-of-concept, is available on our live demo page.
 
-**[Link to Your Live GitHub Pages URL Will Go Here]**
+(https://github.com/Nil4s/nexus-kb-engine-demo)
 
 ## The Broader Vision
 
